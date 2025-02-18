@@ -1,6 +1,22 @@
 \documentclass{amsart}
 \usepackage{fullpage, verbatim}
 
+
+%*****************
+% Annotations
+\usepackage{soul}
+\usepackage[colorinlistoftodos,textsize=footnotesize]{todonotes}
+\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\newcommand{\hlnew}[2]{\texthl{#1}\todo[color=green!40]{#2}}
+\newcommand{\sanote}{\todo[color=green!30]}
+\newcommand{\egnote}{\todo[color=violet!30]}
+\newcommand{\newstart}{\note{The inserted text starts here}}
+\newcommand{\newfinish}{\note{The inserted text finishes here}}
+\setstcolor{red}
+%***************************
+
+
+
 \begin{document}
 	Kalpana awoke in an unfamiliar room. She lay on a reed mat, not unlike the one
 	she slept on, but rougher, not jute. The walls of the room she was in were

@@ -1,6 +1,22 @@
 \documentclass{amsart}
 \usepackage{fullpage}
 
+
+%*****************
+% Annotations
+\usepackage{soul}
+\usepackage[colorinlistoftodos,textsize=footnotesize]{todonotes}
+\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\newcommand{\hlnew}[2]{\texthl{#1}\todo[color=green!40]{#2}}
+\newcommand{\sanote}{\todo[color=green!30]}
+\newcommand{\egnote}{\todo[color=violet!30]}
+\newcommand{\newstart}{\note{The inserted text starts here}}
+\newcommand{\newfinish}{\note{The inserted text finishes here}}
+\setstcolor{red}
+%***************************
+
+
+
 \begin{document}
 This is a story about a woman. Who lives in a village. And it is a tragedy. It is not, however, in spite of the subject matter, a Satyajit Ray play or a Tagore poem. It is too ... well, judge for yourself.
 
