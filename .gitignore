@@ -1,0 +1,5 @@
+# Latex compilation stuff
+*.log
+*.aux
+*.syntex
+*.pdf
