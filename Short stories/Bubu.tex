@@ -1,10 +1,20 @@
 \documentclass{article}
-% Uncomment the following line to allow the usage of graphics (.png, .jpg)
-%\usepackage[pdftex]{graphicx}
-% Comment the following line to NOT allow the usage of umlauts
-\usepackage[utf8]{inputenc}
-\usepackage{fullpage}
-% Start the document
+\usepackage{fullpage, verbatim}
+
+
+%*****************
+% Annotations
+\usepackage{soul}
+\usepackage[colorinlistoftodos,textsize=footnotesize]{todonotes}
+\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\newcommand{\hlnew}[2]{\texthl{#1}\todo[color=green!40]{#2}}
+\newcommand{\sanote}{\todo[color=green!30]}
+\newcommand{\egnote}{\todo[color=violet!30]}
+\newcommand{\newstart}{\note{The inserted text starts here}}
+\newcommand{\newfinish}{\note{The inserted text finishes here}}
+\setstcolor{red}
+%***************************
+
 \begin{document}
 She had everything; a comfortable home, a good family, land and a store she enjoyed working in, she even had a child growing inside her. She had everything. Her current situation terrified her.
 
