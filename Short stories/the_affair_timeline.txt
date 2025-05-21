@@ -1,0 +1,187 @@
+
+clarity idea: make all time references from current point? e.g. meeting is 'a little over a year ago', movie is '12 months ago, only a month after meeting'. Actually, you're already using a single point as a reference in each of the three sections - first hotel room, rainy goat evening, and first/last line. Making sure each of those points is clearly established relative to the others, and the relative timelines are right seems good for delineation.
+
+***************
+* Story Order *
+***************
+
+# hotel reference point
+* rainy goat evening reference point
++ now reference point
+
++current (now) - pregnant and worried
+
+#8mo ago - hotel in the city
+    reference to previous autumn - dengue fever outbreak
+    reference to several years earlier - childcare while sister at conference
+
+#8mo ago - meeting under clock before going to hotel
+
+#unspecified time - met when his brother-in-law started supplying father-in-law's store and came 'one month' to settle accounts
+
+#8mo ago - walking to hotel (first mention that he's a teacher)
+
+#less than a month after meeting (still unspecified) - movie in town, light flirting over tea, going home w/husband
+    reference to 'few months nearly a year ago' when her husband was an ass
+
+#4mo after movie, 8mo ago - back at the hotel
+    timing of first meeting and movie now established, but requires cross-referencing
+    reference to sister's conference, unspecified time of pilgrimage, ocean front trip 'a few years ago'
+
+#unspecified time(s) - convinces brother-in-law to bring her into town on supply runs
+
+#unspecified first trip to town - can't find the teacher
+
+#unspecified second trip, unknown amount of time later - has a plan but still can't find the teacher
+
+#unspecified third trip, unknown amount of time later - runs into the teacher w/ex-student, chatting over tea
+    musing on future timing, reveals supply runs are every 2 weeks
+
+#every 10 days for next two months - meeting teacher at tea shop
+
+#a week after the two months = 8 months go - first meeting in city, assignation, then to her sister's
+
+BREAK
+
+*unspecified time - boy doesn't show up to tend the goats, she feels sick at smells
+    some time after three months of meetings with the teacher
+
+*overview of the three months of the affair, doesn't specify exact times
+
+*broke things off a week ago - reveals this is the time after the break
+
+*a week ago - discussion of ending it
+
+*back to the goats - she wants to, but doesn't tell her husband she's pregnant
+
+*seven years ago - marriage, first comes to her husband's home
+    references to mid teens with high school, tutoring, sewing
+
+*six months after marriage - sewing business ends
+    starts working at the store
+    summary of next time period, with jealosy from MIL and SIL, and winning them over
+
+*unspecified time later - SIL has a boy
+    presumably not very long later
+
+*5 years later - nephew is 5, as 3yo brother, she hasn't had a baby
+    in that time period she shifts to doing more at the store
+
+*a few years ago (unspecified) - father-in-law's heart trouble
+
+*back to the goat time touchpoint, I think? - tutoring the kids
+
+*two years ago, married 5 years - brings up fertility concerns to her husband, wants to get fertility testing
+    unspecified time before that - whispers from neighbors, extended family
+
+*about a month later - FIL says no way, no how
+
+*'a long while' later - thought about it, asked sister to make appointment when visiting for christian holidays
+
+*back to rainy evening - tells husband she's pregnant, he's a bastard about it
+
+*a year ago - trying to go to the appt her sister made
+    reference to doctor insisting on having her husband's contact info
+    he's found out
+    tells her about his infertility
+    broaches plan, she says no
+    he hits her (this is the event referred to when they're coming home from the movie)
+    she goes to her sister's
+*next day - she tells her parents
+
+*back to rainy evening - husband tries to send her away, she tries to get him to stick to his promise
+
+*a year ago - he tries to convince her again, she says no
+
+*over the next week - tries to convince her
+
+*next few weeks - notes flirting on TV
+
+*unspecified amount of time - not doing chores, no intimacy
+
+*'eventually', shortish time - theft accusation, she acquiesces
+
+BREAK
+
++several months after rainy evening - MIL notices baby bump, she announces to the family
+    reference to her husband's behavior over the past several months
+    uproar
+
++next morning - calls her sister to arrange to stay w/her
+
++week later - goes to her sister's
+
+
+
+*******************
+* Chronologically *
+*******************
+
+# hotel reference point
+* rainy goat evening reference point
++ now reference point
+
+
+*her mid-teens, not finishing high school, tutoring children, sewing business (passing reference)
+
+*marriage (7 years before rainy goat evening)
+
+*6mo later, sewing business stopped, starts working at store
+
+*over the next 5 years
+  wins MIL over
+  soon, SIL has first child, she gradually works more at the store
+  SIL has second child (two years after first)
+  gradually wins SIL over
+  FIL's heart trouble in there somewhere (passing reference)
+  #childcare during sister's conference in here too, presumably (passing reference)
+
+*2 years ago - brings up fertility concerns to husband
+
+*a month later - FIL says no testing
+
+#caring for her brother-in-law and neice during dengue fever outbreak in here probably (passing reference)
+
+*some time later - presumably almost a year? - asks sister to make appt
+
+*1 year before rainy goat evening - tries to go to sister's for appointment
+    husband reveals his infertility, and that the family knew
+    proposes affair plan
+    she goes to her sister, tells her family
+    next ~week, he tries to convince her
+    next ~few weeks, she avoids TV because awkward
+    next (short?) timespan, undone chores and denying intimacy
+    presumably short time, theft accusation, she agrees to the plan
+
+#slightly less than 1 year ago meets the teacher at the family store (is this 1 year before rainy goat evening, or 1 year before 'now' (first and last sentence)?)    
+
+#less than a month later - movie in town
+
+#2 unspecified trips to town - doesn't manage to find the teacher
+
+#3rd trip - finds him, chatting w/student over tea
+
+#next two months, trips to town to chat every 10 days
+
+#FIRST HOTEL ROOM - reference point - 8 months ago - 4 months after movie - 1 week after last trip to town
+
+*next 3 months - meeting several times for sex
+    ends the affair when she knows she's pregnant
+
+*RAINY GOAT EVENING - reference point - week after breaking off affair
+    smells make her sick
+    wants to tell husband, has a hard time working up to it
+    tells him
+    he's an asshole, tries to send her to her sister's
+
+BREAK
+
++next several months - husband refuses to acknowledge pregnancy
+
++several months later - presumably about 5 months later
+    MIL notices baby bump
+    she announces pregnancy to the family
+
++next morning - calls sister
+
++next week - goes to stay with sister - NOW - reference point
